@@ -6,23 +6,18 @@ nor_adm0.geojson
 
 http://mappingandco.github.io/geojsonDB/norway/nor_adm0.geojson
 
-* fylker
+* Counties (fylker)
 
-spa_adm2.geojson
+nor_adm2.geojson
 
 http://mappingandco.github.io/geojsonDB/norway/nor_adm2.geojson
 
-* kommuner
+* Municipalities (kommuner)
 
 nor_adm3.geojson
 
 http://mappingandco.github.io/geojsonDB/norway/nor_adm3.geojson
 
-* grunnkretser
-
-nor_adm6.geojson
-
-http://mappingandco.github.io/geojsonDB/norway/nor_adm6.geojson
 
 Data from http://www.kartverket.no/:
 
