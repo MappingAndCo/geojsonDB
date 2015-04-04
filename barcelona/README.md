@@ -1,6 +1,6 @@
 ## Barcelona public transport data
 
-* transport 
+* transport (metro, tranvia..)
 
 transports.geojson [309KB]
 
@@ -11,11 +11,12 @@ http://opendata.bcn.cat/opendata/es/catalog/TRANSPORT
 
 http://opendata.bcn.cat/opendata/es/data-using
 
-* underground lines:
+* subway lines (líneas de metro):
 
-metro_lines.geojson [7,06KB]
+metro_lines.geojson [59,7KB]
 
-http://mappingandco.github.io/geojsonDB/barcelona/metro_lines.geojson
+http://mappingandco.github.io/geojsonDB/barcelona/subway.geojson
 
-(Own elaboration based on data from opendata.bcn)
+Source: 
+http://www.openstreetmap.org/#map=12/41.3858/2.1283
 
