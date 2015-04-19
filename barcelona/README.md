@@ -20,3 +20,10 @@ http://mappingandco.github.io/geojsonDB/barcelona/subway.geojson
 Source: 
 http://www.openstreetmap.org/#map=12/41.3858/2.1283
 
+* districts & neighbourhoods
+
+Source GeoPortal Ayto Barcelona (http://w24.bcn.cat/GWMPNet61_bcn/extlayout.aspx)
+
+http://mappingandco.github.io/geojsonDB/barcelona/neighbourhoods.geojson
+
+
