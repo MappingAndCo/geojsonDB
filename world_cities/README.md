@@ -1,8 +1,10 @@
 # geojsonDB
 
-Original shape file ```ne_110m_populated_places v2.0.0``` from naturalearthdata.com
+Original shape file ```ne_110m_populated_places``` v2.0.0 from   [naturalearthdata.com](http://www.naturalearthdata.com) 
 
-http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_populated_places.zip
+Link:
+
+http://www.naturalearthdata.com/download/110m/cultural/ne_110m_populated_places.zip
 
 Just use a link like this:
 
