@@ -1,6 +1,6 @@
 # geojsonDB word coastline
 
-
+19,0 MB 
 
 Just use a link like this:
 
