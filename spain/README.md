@@ -37,5 +37,17 @@ spa_comarcas_agrarias.geojson
 
 http://mappingandco.github.io/geojsonDB/spain/spa_comarcas_agrarias.geojson
 
+
+* Red hidrográfica. 
+
+http://www.magrama.gob.es/es/cartografia-y-sig/ide/descargas/agua/red-hidrografica.aspx
+
+http://mappingandco.github.io/geojsonDB/spain/cuencas_hidrograficas.geojson
+
+http://mappingandco.github.io/geojsonDB/spain/red_hidrografica_basica.geojson
+
+http://mappingandco.github.io/geojsonDB/spain/rios_principales.geojson
+
+
 Source
 http://www.magrama.gob.es/
